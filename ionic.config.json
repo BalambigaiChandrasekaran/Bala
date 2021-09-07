@@ -1,0 +1,7 @@
+{
+  "name": "myprocure",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
